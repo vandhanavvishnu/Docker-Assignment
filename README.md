@@ -12,7 +12,3 @@ This repository contains the deliverables for the Docker Assignement (Deploying 
    ```bash
    git clone <repository-url>
    cd multi-container-app
-
-=======
-# Docker-Assignment
-This repository contains the deliverables for the Docker Assignement (Deploying Multi-container Applications).
