@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Multi-Container Application with Docker Compose
 
 This repository contains a multi-container application using Node.js and MySQL, deployed with Docker Compose.
