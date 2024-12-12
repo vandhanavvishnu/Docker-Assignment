@@ -18,4 +18,3 @@ This repository contains a multi-container application using Node.js and MySQL, 
 =======
 # Docker-Assignment
 This repository contains the deliverables for the Docker Assignement (Deploying Multi-container Applications).
->>>>>>> origin/main
